@@ -3,42 +3,73 @@
 </p>
 
 
-[![stars][1]][1]
-[![open issues][2]][2]
-[![license][3]][3]
-[![build][4]][4]
-[![last commit][5]][5]
 
-[![code size][6]][6]
-[![pr closed][7]][7]
-[![tag][8]][8]
-[![rating][9]][9]
 
-[![followers][10]][10]
-[![stars][11]][11]
-[![fork][12]][12]
-[![watch][13]][13]
-[![downloads social][14]][14]
-[![github streak][25]][25]
-[![total contributions][26]][26]
-<img src="https://komarev.com/ghpvc/?username=hst1189" />
+### 言語系
 
-[1]: https://img.shields.io/github/stars/hst1189/custom-icon-badges?logo=star
-[2]: https://img.shields.io/github/issues-raw/hst1189/custom-icon-badges?logo=issue
-[3]: https://img.shields.io/github/license/hst1189/custom-icon-badges?logo=law
-[4]: https://img.shields.io/github/actions/workflow/status/hst1189/custom-icon-badges/ci.yml?branch=main&logo=check-circle-fill&logoColor=white
-[5]: https://img.shields.io/github/last-commit/hst1189/custom-icon-badges?logo=history&logoColor=white
-[6]: https://img.shields.io/github/languages/code-size/hst1189/custom-icon-badges?logo=file-code&logoColor=white
-[7]: https://img.shields.io/github/issues-pr-closed/hst1189/custom-icon-badges?color=purple&logo=git-pull-request&logoColor=white
-[8]: https://img.shields.io/github/v/tag/hst1189/custom-icon-badges?logo=tag&logoColor=white
-[9]: https://img.shields.io/chrome-web-store/rating/ogffaloegjglncjfehdfplabnoondfjo?logo=thumbsup&logoColor=white
-[10]: https://img.shields.io/github/followers/hst1189?logo=person-add&style=social&logoColor=black
-[11]: https://img.shields.io/github/stars/hst1189/custom-icon-badges?logo=star&style=social&logoColor=black
-[12]: https://img.shields.io/github/forks/hst1189/custom-icon-badges?logo=fork&style=social&logoColor=black
-[13]: https://img.shields.io/github/watchers/hst1189/custom-icon-badges?logo=eye&style=social&logoColor=black
-[14]: https://img.shields.io/npm/dw/react-bootstrap?logo=download&style=social&label=Download&logoColor=black
-[25]: https://img.shields.io/badge/dynamic/json?logo=fire&logoColor=fff&color=orange&label=github%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3Dhst1189%26type%3Djson
-[26]: https://img.shields.io/badge/dynamic/json?logo=graph&logoColor=fff&color=blue&label=total%20contributions&query=%24.totalContributions&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3Dhst1189%26type%3Djson
+<img src="https://img.shields.io/badge/PHP-ccc.svg?logo=php&style=flat">
+<img src="https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat">
+<img src="https://img.shields.io/badge/-TypeScript-007ACC.svg?logo=typescript&style=flat">
+<img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat">
+<img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat">
+<img src="https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat">
+
+### ライブラリ・フレームワーク
+
+<img src="https://img.shields.io/badge/-CakePHP-D3DC43.svg?logo=cakephp&style=flat">
+<img src="https://img.shields.io/badge/-Rails-CC0000.svg?logo=rails&style=flat">
+<img src="https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=flat">
+<img src="https://img.shields.io/badge/-Flask-000000.svg?logo=flask&style=flat">
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C.svg?logo=bootstrap&style=flat">
+<img src="https://img.shields.io/badge/-React-555.svg?logo=react&style=flat">
+<img src="https://img.shields.io/badge/-jQuery-0769AD.svg?logo=jquery&style=flat">
+
+### OS
+
+<img src="https://img.shields.io/badge/-Linux-6C6694.svg?logo=linux&style=flat">
+<img src="https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=flat">
+<img src="https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat">
+<img src="https://img.shields.io/badge/-RedHat-EE0000.svg?logo=red-hat&style=flat">
+<img src="https://img.shields.io/badge/-Debian-A81D33.svg?logo=debian&style=flat">
+<img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A.svg?logo=raspberry-pi&style=flat">
+<img src="https://img.shields.io/badge/-Arch%20Linux-EEE.svg?logo=arch-linux&style=flat">
+
+### ミドルウェア
+
+<img src="https://img.shields.io/badge/-Apache-D22128.svg?logo=apache&style=flat">
+<img src="https://img.shields.io/badge/-Nginx-bfcfcf.svg?logo=nginx&style=flat">
+<img src="https://img.shields.io/badge/-Oracle-f80000.svg?logo=oracle&style=flat">
+<img src="https://img.shields.io/badge/-Redis-D82C20.svg?logo=redis&style=flat">
+<img src="https://img.shields.io/badge/-Elasticsearch-005571.svg?logo=elasticsearch&style=flat">
+<img src="https://img.shields.io/badge/-PostgreSQL-336791.svg?logo=postgresql&style=flat">
+
+
+### エディタ・IDE
+
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat">
+<img src="https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=flat">
+<img src="https://img.shields.io/badge/-Emacs-EEE.svg?logo=spacemacs&style=flat">
+<img src="https://img.shields.io/badge/-Atom-66595C.svg?logo=atom&style=flat">
+<img src="https://img.shields.io/badge/-Xcode-EEE.svg?logo=xcode&style=flat">
+<img src="https://img.shields.io/badge/-intellij%20IDEA-000.svg?logo=intellij-idea&style=flat">
+
+### クラウド・他
+
+<img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E.svg?logo=amazon-aws&style=flat">
+<img src="https://img.shields.io/badge/-Google%20Cloud-EEE.svg?logo=google-cloud&style=flat">
+<img src="https://img.shields.io/badge/-Ansible-EE0000.svg?logo=ansible&style=flat">
+<img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat">
+<img src="https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat">
+
+
+
+
+
+
+<p align="center">
+
+
+  
 <br>
 
 
